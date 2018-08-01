@@ -1,0 +1,10 @@
+FF_map   Threshold = Total_Fat
+FF-edge_map Dilate erode + FF map (scaled?)  median filter?
+3D? region grow in right ¼ of image, 5 pixels up from edge?   Get SAT
+
+Total_Fat – SAT = VAT + bone
+Midline up from SAT? assume region? Mask out….
+
+ML –
+Use SHINE, Tien, NAFLD, SUCRE ?? Data???
+Tien + other covers thin & fat

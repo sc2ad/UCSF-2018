@@ -1,0 +1,57 @@
+IMAGE DESCRIPTOR FILE version 5
+studyid: 12345678            
+study #:   12345         
+series #:    2103
+position: feet first, supine  
+coil: Body 48 AA          
+orientation:  13     ax RLxAPxSI         
+echo/time/met index:     1     value:       1.00
+rootname: suc047_4_S10_eFF_I30                                        
+comment: In - - 00/00/0000                                                     
+filetype:   3     entry/pixel:  1     integer*2 real      
+dimension:  1     columns     itype:  1
+npix:   256   fov(mm):  500.00  center(mm):   -9.00  pixelsize(mm):    1.95312
+dimension:  2     rows        itype:  2
+npix:   256   fov(mm):  500.00  center(mm):   -5.34  pixelsize(mm):    1.95312
+dimension:  3     slices      itype:  3
+npix:     1   fov(mm):   10.00  center(mm):  120.90  pixelsize(mm):   10.00000
+slice thickness (mm):       10.00000
+minimum:    0.000         maximum:   0.3277E+05
+scale:    1.000    
+first slice read:    1   last slice read:    1   sliceskip:    1
+LOCATION DATA IN LPS COORDINATES
+center:       -9.00276      -5.34476    -120.90000
+toplc:      -258.02618    -254.36819    -120.90000
+dcos1:         1.00000       0.00000       0.00000
+dcos2:         0.00000       1.00000       0.00000
+dcos3:         0.00000       0.00000      -1.00000
+
+RESAMPLED USING resample_image_v5
+INPUT IDF INFORMATION
+IMAGE DESCRIPTOR FILE version 5
+studyid: 12345678            
+study #:   12345         
+series #:    2103
+position: feet first, supine  
+coil: Body 48 AA          
+orientation:  13     axial normal        
+echo/time/met index:     1     value:       1.00
+rootname: suc047_4_S10_eFF                                            
+comment: In - - 00/00/0000                                                     
+filetype:   3     entry/pixel:  1      images             
+dimension:  1     columns     itype:  1
+npix:   256   fov(mm):  499.99  center(mm):  -17.57  pixelsize(mm):    1.95309
+dimension:  2     rows        itype:  2
+npix:   256   fov(mm):  499.99  center(mm):  -20.00  pixelsize(mm):    1.95309
+dimension:  3     slices      itype:  3
+npix:    44   fov(mm):  440.00  center(mm):   81.07  pixelsize(mm):   10.00000
+slice thickness (mm):       10.00000
+minimum:   -2400.         maximum:    50.00    
+scale:    1.000    
+first slice read:    1   last slice read:   44   sliceskip:    1
+LOCATION DATA IN LPS COORDINATES
+center:      -17.57274     -20.00276     -81.06699
+toplc:      -266.59119    -269.02121     133.93301
+dcos1:         1.00000       0.00000       0.00000
+dcos2:         0.00000       1.00000       0.00000
+dcos3:         0.00000       0.00000      -1.00000

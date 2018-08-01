@@ -1,0 +1,27 @@
+IMAGE DESCRIPTOR FILE version 5
+studyid: 12345678
+study #:    12345
+series #:    2103
+position: Feet First, Supine
+coil: Body 48 AA
+orientation:  13     axial normal
+cho/time/met index:     1     value:       1.00
+rootname: suc047_2_S21_In
+comment: In - Anonymized on Fri Dec 22 23:36:19 PST 2017
+filetype:   3     entry/pixel:  1     DICOM format images
+dimension:  1     columns     itype:  1
+npix:   256   fov(mm):  499.99  center(mm):  -17.57  pixelsize(mm):    1.95310
+dimension:  2     rows        itype:  2
+npix:   256   fov(mm):  499.99  center(mm):  -20.00  pixelsize(mm):    1.95310
+dimension:  3     slices      itype:  3
+npix:    44   fov(mm):  440.00  center(mm):   81.07  pixelsize(mm):   10.00000
+slice thickness (mm):       10.00000
+minimum:   0.0000e+00     maximum:   6.5290e+04
+scale:     1.000
+first slice read:   44   last slice read:    1   sliceskip:    1
+LOCATION DATA IN LPS COORDINATES
+center:      -17.57274     -20.00276     -81.06699
+toplc:      -266.59299    -269.02301     133.93300
+dcos1:         1.00000       0.00000       0.00000
+dcos2:         0.00000       1.00000       0.00000
+dcos3:         0.00000       0.00000      -1.00000
